@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		   xmlns="http://fakanbi.github.io/CSE445-P4/NationalParks" 
+		   targetNamespace="http://fakanbi.github.io/CSE445-P4/NationalParks" 
+		   elementFormDefault="qualified" attributeFormDefault="unqualified">
 
 	<xs:element name="NationalParks">
 		<xs:complexType>
